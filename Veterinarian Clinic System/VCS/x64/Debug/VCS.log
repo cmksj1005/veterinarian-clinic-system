@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (VCS\x64\Debug\) contains files shared from another project (a1ms3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  VCS.c
+  clinic.c
+  core.c
+  Generating Code...
+C:\Users\cmksj\Desktop\Project\PFR\Veterinarian Clinic System\core.c(139,15): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  VCS.vcxproj -> C:\Users\cmksj\Desktop\Project\PFR\Veterinarian Clinic System\x64\Debug\VCS.exe
